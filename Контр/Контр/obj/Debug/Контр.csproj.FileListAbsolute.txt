@@ -1,0 +1,30 @@
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\bin\Debug\Контр.exe.config
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\bin\Debug\Контр.exe
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\bin\Debug\Контр.pdb
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.AssemblyReference.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\MainWindow.g.cs
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\App.g.cs
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр_MarkupCompile.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр_MarkupCompile.lref
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\MainWindow.baml
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.g.resources
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.Properties.Resources.resources
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.GenerateResource.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.CoreCompileInputs.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.exe
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Контр\Контр\obj\Debug\Контр.pdb
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\bin\Debug\Контр.exe.config
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\bin\Debug\Контр.exe
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\bin\Debug\Контр.pdb
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\App.g.cs
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр_MarkupCompile.cache
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр_MarkupCompile.lref
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\MainWindow.baml
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.g.resources
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.Properties.Resources.resources
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.exe
+C:\Users\Владислав\Desktop\новое учение\Новая папка\Контр\Контр\obj\Debug\Контр.pdb
